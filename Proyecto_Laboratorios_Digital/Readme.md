@@ -28,7 +28,7 @@ El proyecto constará de los siguientes elementos clave:
 
 6. Metodología:
    - Diseño del circuito electrónico para la conexión del sensor de ultrasonido, el servomotor y la FPGA.
-   - Desarrollo del código en hardware description language (HDL) para la FPGA.
+   - Desarrollo del código en hardware description language (Verilog) para la FPGA.
    - Integración y pruebas del sistema en un entorno de laboratorio simulando diversas situaciones de conducción.
 
 7. Resultados Esperados:
