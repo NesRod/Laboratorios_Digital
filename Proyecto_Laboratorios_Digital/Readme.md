@@ -39,4 +39,4 @@ El proyecto constará de los siguientes elementos clave:
 8. Conclusiones:
 Este proyecto proporcionará una solución innovadora y efectiva para mejorar la seguridad en la conducción al optimizar la visibilidad a través de la automatización del ángulo del espejo lateral. La implementación en una FPGA permitirá un procesamiento eficiente y en tiempo real de los datos del sensor de ultrasonido, brindando una solución práctica y escalable.
 
-<image src="Proyecto    Laboratorios_Digital/sim/0000.jpg" alt="simulacion" width="400px">
+<image src="Proyecto_Laboratorios_Digital/sim/0000.jpg" alt="simulacion" width="400px">
