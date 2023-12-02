@@ -44,4 +44,4 @@ Este proyecto proporcionará una solución innovadora y efectiva para mejorar la
 https://youtu.be/n5WmfRJ3Sxo?si=7qDswiKp2wl8UHXn
 
 
-<image src="sim/0000.jpg" alt="simulacion" width="400px">
+<image src="sim/WhatsApp Image 2023-12-01 at 2.16.11 PM.jpeg" alt="simulacion" width="400px">
